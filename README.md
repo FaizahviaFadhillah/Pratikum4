@@ -68,7 +68,7 @@
  5. lalu print menggunakan end=jarak itu adalah perintah print yang berfungsi membuat perulangan ke samping dan di ikuti juga selanjutnya dengan perintah print()
  
  - kode programnya:
- ![img.9](gambar/hasil%20nested.png)
+ ![img.9](gambar/nested.png)
 
  - hasil dari kode programnya:
  ![img.10](gambar/hasil%20nested.png)
