@@ -19,7 +19,7 @@
  - hasil dari kode programnya:
 ![img.3](gambar/hasil%20pratikum2.png)
 
-# Algoritma Mengurutkan bilagan dari urutan terkecil
+# Algoritma Mengurutkan bilangan dari urutan terkecil
  1. Input banyaknya suatu bilagan pada variabel a
  2. Deklarasi variabel bil dengan array berindeks kosong
  3. Buat perulangan for untuk menginput nilai atau index pada variabel bil, gunakan variabel x untuk menginputkan nilai nya
@@ -27,6 +27,7 @@
  5. Gunakan perintah list.sort(bil) utnuk mengurutkan bilangan
 
  - kode programnya:
+
 ![img.4](gambar/b%20kecil.png)
 
  - hasil dari kode programnya:
@@ -96,6 +97,7 @@
  3. Membuat perulangan menggunakan for untuk menambilkan hasil Laba 1 sampai 8
 
  - kode programnya:
+ 
 ![img.13](gambar/program%201.png)
 
  - hasil dari kode programnya:
